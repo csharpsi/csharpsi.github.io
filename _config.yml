@@ -1,0 +1,13 @@
+# Site settings
+title: simonchilds.net
+email: hello@simonchilds.com
+description: >
+  Hello! I'm Simon Childs. I lead the development team for
+  a leading FinTech company based in Cardiff.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://simonchilds.net" # the base hostname & protocol for your site
+twitter_username: simonlchilds
+github_username:  csharpsi
+
+# Build settings
+markdown: kramdown
