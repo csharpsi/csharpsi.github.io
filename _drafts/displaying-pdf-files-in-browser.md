@@ -1,5 +1,8 @@
 ---
 layout: post
+categories: [programming, C-Sharp]
+tags: [C#]
+author: Simon Childs
 ---
 
 Before I start, I should mention straight away that the solution I propose here is **not free**. This post is mostly intended for those of you lucky enough to work in a company that is willing and able to spend cash on tech.
