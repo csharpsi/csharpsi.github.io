@@ -1,5 +1,7 @@
 ---
 layout: post
+tags: [Mind Management]
+comments: true
 ---
 
 ![Nelson Mandela Quote](https://andywilliam.files.wordpress.com/2013/12/nelson.jpg)
