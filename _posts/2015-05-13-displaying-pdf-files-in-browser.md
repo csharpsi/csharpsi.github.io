@@ -71,3 +71,25 @@ And that's all there is to it! You can see from the code example above that the 
 * Load the PDF document from disk and store as a `FileStream`
 * Create a new Apitron Document from the file stream - this will give you access to a list of pages from the PDF, as well as other helpful data and meta data
 * Iterate through each page, render the page as a `Bitmap` using the given resolution and scale settings and save the newly generated image with the JPG format. You can, of course, use any image format (such as PNG) you like.
+
+With the images saved, you can now display them in a web page simply by showing the images in an ordered list. For example:  
+
+{% highlight html %}
+
+<ul>
+    <li>
+        <img src="/public/files/document_page1.jpg" />
+    <li>
+    <li>
+        <img src="/public/files/document_page2.jpg" />
+    <li>
+    <li>
+        <img src="/public/files/document_page3.jpg" />
+    <li>
+    <li>
+        <img src="/public/files/document_page4.jpg" />
+    <li>
+    <!-- etc... -->
+</ul>
+
+{% endhighlight %}
